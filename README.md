@@ -13,3 +13,8 @@ This is achieved by parsing Windows event logs using a powershell script.  The s
 [IP Geolocation API](https://ipgeolocation.io/)
 
 [KQL Query](https://github.com/evasquez44/AzureSentinelLab/blob/main/Workbook%20Log%20Query)
+
+
+## Worldmap of incoming attacks over time
+
+
