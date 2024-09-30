@@ -17,4 +17,4 @@ This is achieved by parsing Windows event logs using a powershell script.  The s
 
 ## Worldmap of incoming attacks over time
 
-
+![](https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Heatmap%20progression.png)
