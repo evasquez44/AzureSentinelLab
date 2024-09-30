@@ -15,6 +15,10 @@ This is achieved by parsing Windows event logs using a powershell script.  The s
 [KQL Query](https://github.com/evasquez44/AzureSentinelLab/blob/main/Workbook%20Log%20Query)
 
 
+## Attacks from Ukraine coming in; Custom logs being output with geodata
+
+<img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Incoming%20attacks.png" width="500">
+
 ## Worldmap of incoming attacks over time
 
 <img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Heatmap%20progression.png" width="500">
