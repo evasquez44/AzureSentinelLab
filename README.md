@@ -8,6 +8,6 @@ This is achieved by parsing Windows event logs using a powershell script.  The s
 
 ## Components
 
-[Powershell Script](http://mylink)
+[Powershell Script](https://github.com/evasquez44/AzureSentinelLab/blob/main/Custom_Security_Log_Exporter.ps1)
 
 [IP Geolocation API](https://ipgeolocation.io/)
