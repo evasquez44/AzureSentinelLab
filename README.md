@@ -17,8 +17,8 @@ This is achieved by parsing Windows event logs using a powershell script.  The s
 
 ## Attacks from Ukraine coming in; Custom logs being output with geodata
 
-<img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Incoming%20attacks.png" width="500">
+<img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Incoming%20attacks.png" width="700">
 
 ## Worldmap of incoming attacks over time
 
-<img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Heatmap%20progression.png" width="500">
+<img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Heatmap%20progression.png" width="700">
