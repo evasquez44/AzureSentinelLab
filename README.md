@@ -4,7 +4,7 @@
 
 This is a demonstration of using Azure Sentinel to monitor failed RDP login attempts to a VM and present the geolocation data
 
-This is achieved by parsing Windows event logs using a powershell script.  The script feeds the results to a geolocation API and writes the results to a custom log. The custom log is then queried by Sentinel and presented as a heatmap that is updated automatically.
+This is achieved by parsing Windows event logs with powershell.  The results are used to retrieve data from a geolocation API and the results are written to a custom log. The custom log is then queried by Sentinel and presented as a heatmap that is updated automatically.
 
 ## Components
 
