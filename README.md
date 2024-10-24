@@ -17,7 +17,7 @@ This is achieved by parsing Windows event logs with powershell.  The IPs from th
 
 ## Attacks from Ukraine coming in; Custom logs being output with geodata
 
-<img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Incoming%20attacks.png" width="700">
+<img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Incoming%20attacks.PNG" width="700">
 
 
 
