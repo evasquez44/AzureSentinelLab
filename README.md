@@ -20,6 +20,7 @@ This is achieved by parsing Windows event logs with powershell.  The IPs from th
 <img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Incoming%20attacks.png" width="700">
 
 
+
 ## Worldmap of incoming attacks over time
 
 <img src="https://github.com/evasquez44/AzureSentinelLab/blob/main/Images/Heatmap%20progression.png" width="700">
